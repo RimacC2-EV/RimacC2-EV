@@ -1,6 +1,4 @@
 ## 你好呀！👋##
-## Hi there! 👋 ##
-
 🤔 我是 RimacC2EV，一位来自中国，喜欢翻译的学生！有翻译相关的需求可以考虑联系我哦！虽然本人水平有限，平常也不太经常上 Github，但是了解到需求之后一定会尽量抽出时间贡献的！
 目前就只有这些啦，说不定以后我会 Get 到什么新技能，到时一定会第一时间补上！
 
@@ -9,7 +7,7 @@
 😄 最后非常感谢您仔细阅读完我的 README ！
 
 
-
+## Hi there! 👋 ##
 🤔 I'm Rimac C2EV, a student from China who loves translation! If you have translation related needs, consider contacting me! Although my skills are limited and I don't often stay in Github, I will definitely try my best to make time to contribute once I understand your requirements!
 At present, that's all I have to say at the moment. Maybe I will get some NEW skills in the future, and I will definitely make up for them as soon as possible! 
 
